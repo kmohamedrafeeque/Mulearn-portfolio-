@@ -37,7 +37,7 @@ export default function Contact() {const [name, setName] = React.useState("");
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=ramapuram+kottayam+&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://goo.gl/maps/yjQeefQUPfDSfXMn7"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -45,8 +45,8 @@ export default function Contact() {const [name, setName] = React.useState("");
                 ADDRESS
               </h2>
               <p className="mt-1">
-                ramapuram bazar <br />
-                kottayam kerala 
+                Cheruvatta <br />
+                Kozhikode, Kerala 
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -54,7 +54,7 @@ export default function Contact() {const [name, setName] = React.useState("");
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                alanbiju255@email.com
+                mohamedrafeeque99@gmail.com 
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
